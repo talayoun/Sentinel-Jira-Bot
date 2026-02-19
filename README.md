@@ -1,4 +1,4 @@
-# Sentinel: NOC/SOC Auto-Remediation Bot
+# Sentinel: NOC Auto-Remediation Bot
 
 ## Overview
 Sentinel is a lightweight, automated webhook listener built with Python and Flask. It is designed to simulate a NOC workflow by automatically handling monitoring alerts (e.g., from Grafana/Datadog) and converting them into actionable Jira tickets.
